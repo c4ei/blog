@@ -3,3 +3,4 @@ description: c4ei blog
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+disqus-shortname: c4einet
